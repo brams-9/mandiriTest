@@ -3,4 +3,5 @@
 - use kingfsiher third party lbraries for imagecaching and parsing
 
 # Mandiri themovieDb
-![screenshoot1](./SC1)
+![Home](./SC1)
+![Search Movie](./SC2)
